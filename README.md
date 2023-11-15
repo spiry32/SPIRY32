@@ -17,7 +17,7 @@
   
   ![go](https://img.shields.io/badge/GO-1BA0D7?style=for-the-badge&logo=GO&logoColor=white)
 
-  Languages
+  Languages I know
   
   ![lua](https://img.shields.io/badge/LUA-00599C?&style=for-the-badge&logo=lua&logoColor=white)
   ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
