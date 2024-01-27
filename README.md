@@ -15,7 +15,7 @@
 
   Currently learning
   
-  ![go](https://img.shields.io/badge/GO-1BA0D7?style=for-the-badge&logo=GO&logoColor=white)
+  ![C](https://img.shields.io/badge/C-1BA0D7?style=for-the-badge&logo=C&logoColor=white)
 
   Languages I know
   
