@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&duration=3800&color=097969&center=true&vCenter=true&width=410&height=60&lines=hello,world!)](https://git.io/typing-svg)
 
 ## About me
-![windows 11](https://img.shields.io/badge/Windows11-FF6600?style=for-the-badge&logo=Windows&logoColor=white)
-![arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![opensuse](https://img.shields.io/badge/openSUSE-167C80?style=for-the-badge&logo=suse&logoColor=white)
+![windows 10](https://img.shields.io/badge/Windows10-FF6600?style=for-the-badge&logo=Windows&logoColor=white)
 ![amd](https://img.shields.io/badge/AMD_Ryzen_5-EE2624?style=for-the-badge&logo=amd&logoColor=white)
 
 ## Interests
@@ -15,6 +13,7 @@
 
   Currently learning
   
+  ![GO](https://img.shields.io/badge/GO-1BA0D7?style=for-the-badge&logo=GO&logoColor=white)
   ![C](https://img.shields.io/badge/C-1BA0D7?style=for-the-badge&logo=C&logoColor=white)
 
   Languages I know
