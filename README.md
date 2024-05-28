@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&duration=3800&color=097969&center=true&vCenter=true&width=410&height=60&lines=hello,world!)](https://git.io/typing-svg)
 
-## About me
-![windows 10](https://img.shields.io/badge/Windows10-FF6600?style=for-the-badge&logo=Windows&logoColor=white)
-![amd](https://img.shields.io/badge/AMD_Ryzen_5-EE2624?style=for-the-badge&logo=amd&logoColor=white)
 
 ## Interests
 ##### Programming
@@ -11,13 +8,9 @@
 
 ## General information
 
-  Currently learning
   
   ![GO](https://img.shields.io/badge/GO-1BA0D7?style=for-the-badge&logo=GO&logoColor=white)
   ![C](https://img.shields.io/badge/C-1BA0D7?style=for-the-badge&logo=C&logoColor=white)
-
-  Languages I know
-  
   ![lua](https://img.shields.io/badge/LUA-00599C?&style=for-the-badge&logo=lua&logoColor=white)
   ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![cpp](https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
